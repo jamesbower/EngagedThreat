@@ -13,6 +13,16 @@ The Engaged Threat Splunk App is built using the JSON logging from Cowrie SSH Ho
 
 https://github.com/micheloosterhof/cowrie
 
+# Sensor Installation
+These installation instructions are assuming that you have already have a working Cowrie SSH Honeypot up and running. To start analyzing Cowrie's logs in the Engaged Threat Splunk App you simply have to run the splunk_forwarder.sh script, which will install the Splunk Universal Forwarder on your honeypot sensor, along with configuring the inputs and outputs necessary to start viewing the logs in the Engaged Threat App.
+
+To get started, follow the commands below and enter the necessary information when prompted.
+
+<pre><code>git clone https://github.com/jamesbower/EngagedThreat.git /tmp/engagedthreat
+chmod +x /tmp/engagedthreat/splunk_forwarder.sh
+cd /tmp/engagedthreat/
+./splunk_forwarder.sh</code></pre>
+
 # Using the Engaged Threat Splunk App
 When you open up the Engaged Threat Splunk App you’ll be taken to the “Overview” section of the app by default. You will see that the app contains three other sections. The second section is “Session Analysis” and the third is “Session Engagement”. The fourth and final section of the app is the typical Splunk “Search” section. An synopsis of each section is provided below.
 
