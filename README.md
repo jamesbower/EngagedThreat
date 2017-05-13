@@ -1,10 +1,10 @@
 # Overview
 The purpose of this is app is to provide dashboards and metrics to aid in increasing the engagement of attackers on your SSH honeypot. The goal of the metrics is to allow you to observe the behavioral changes of the attackers when configuration changes are made to the honeypot. By increasing the engagement level of your attackers you should be able to obtain higher quality threat intelligence than a default installation while still remaining low-interaction.
 
-# Details
-In order to fully utilize the visualizations in Engaged Threat you will need to install the "Sankey Diagram - Custom Visualization” App located here - 
+# Before You Begin
+In order to use Engaged Threat you should first download the Engaged Threat Splunk App and follow the installation instructions located here - 
 
-https://splunkbase.splunk.com/app/3112
+https://splunkbase.splunk.com/app/3580/
 
 Restart Splunk after you’ve installed the above app.
 
