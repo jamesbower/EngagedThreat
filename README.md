@@ -39,6 +39,8 @@ The “Overview” section provides some key analytics consisting of the followi
 * Top Successful Commands
 * Top Failed Commands
 
+![alt text](https://cloud.githubusercontent.com/assets/10210426/26067174/3e2e3976-3967-11e7-9af1-f06155208d8b.png)
+
 # Session Analysis
 * Successful Sessions with Interaction
 * Session Flow
