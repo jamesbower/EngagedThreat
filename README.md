@@ -49,12 +49,16 @@ The “Overview” section provides some key analytics consisting of the followi
 * Session Duration in Minutes
 * Files Downloaded During Session
 
+![alt text](https://cloud.githubusercontent.com/assets/10210426/26067214/64b5d112-3967-11e7-81ae-567769954c1c.png)
+
 # Session Engagement
 * Unique Sessions
 * Commands
 * Unique Session Duration
 * Session Window Size
 * Top Session Flow Over 24 Hours
+
+![alt text](https://cloud.githubusercontent.com/assets/10210426/26067185/464a8cea-3967-11e7-97b6-f21c1549135f.png)
 
 # To-Do
 * Provide A/B Split testing of multiple sensors with different configurations.
