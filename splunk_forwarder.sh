@@ -1,6 +1,6 @@
 #!/bin/bash
 #Splunk Universal Forwarder for Engaged Threat by James Bower
-#Questions and Comments https://twitter.com/jamesbower
+#Questions and Comments @jamesbower
 #Tested and working on Ubuntu 16.04
 #Thanks to @brian_warehime
 
