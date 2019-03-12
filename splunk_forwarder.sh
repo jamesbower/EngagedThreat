@@ -1,7 +1,7 @@
 #!/bin/bash
 #Splunk Universal Forwarder for Engaged Threat by James Bower
 #Questions and Comments @jamesbower
-#Tested and working on Ubuntu 16.04
+#Tested and working on Ubuntu 16.04 & Ubuntu 18.04
 #Thanks to @brian_warehime
 
 #Splunk Indexer hostname/IP address from user
